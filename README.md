@@ -1,3 +1,23 @@
+Hi, 
+As you asked I created microservice that evaluates risk of the transactions.
+Factors that I took into account during assessment:
+ - transaction amount
+ - country in which transaction is taking place
+ - founding source
+ - unknown bin number
+
+Happy reading :)
+
+
+
+
+
+
+
+
+
+
+
 # fraud-detection
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
